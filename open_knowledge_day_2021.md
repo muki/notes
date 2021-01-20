@@ -50,6 +50,11 @@ ANG: Julia Reda is a copyright expert and project lead at GFF for control ©. Be
 
 ## Julija vprašanja
 
+- Thus far, there have been some Article 17 implementation proposals (e.g. Netherlands, Germany, Austria, Finland). Which implementation proposal is the most appropriate, which one would you say is the best solution?
+- What would your main guidelines be for Slovenian legislators?
+- What would be, in your opinion, an acceptable way of using automated upload content filters?
+- Why is it important to have a "human element" in complaint and redress mechanisms in the event of disputes over the disabling of access to, or the removal of, works from platforms?
+
 # "Okrogla miza"
 
 ## Nekdo nam manjka
@@ -73,6 +78,11 @@ vsebin s spletnih platform. Ali kaj podobnega v EU že počnemo in kakšne so bi
 
 (Jaz se tukaj spomnim na avtomatsko cenzuro online igralnic na netu, mogoče je to slab primer, mogoče je odgovor ne, tega se ne počne, potem je vprašanje zakaj se tega ne počne.)
 
+### Še vprašanj
+- Kaj je pri implementaciji 17. člena Direktive še posebej pomembno, da se zadosti zahtevam iz Direktive po zagotovitvi spoštovanja pravic uporabnikov?
+- 7. odstavek 17. člena določa, da se uporabniki lahko zanesejo na vse že obstoječe izjeme pri nalaganju vsebin na platforme. Kaj to pomeni? Katere so te obstoječe izjeme?
+  - Ali filtrirni sistemi, ki so na voljo, zmorejo to doseči?
+
 ## Domen
 
 > Domen Savič je diplomirani novinar in ustanovitelj neprofitnega zavoda Državljan D, ki se od leta 2015 kot 
@@ -91,3 +101,8 @@ delo. Kakšne ima to veze s človekovimi pravicami?
 Ves čas se bolj kot ne pogovarjamo o Facebooku, tudi jaz sem to razpravo otvoril z njim, ampak internet
 ni samo internet velikih korporacij. Kdo so manjši akterji na internetu in onkraj njega, ki jih 17. člen lahko
 najbolj prizadane?
+
+### Še vprašanj
+- Kako naj se pri implementaciji 17. člena uskladi preprečitev razpoložljivosti del, ki ne posegajo v avtorske pravice, s preprečitvijo, da bi uporabniki svoje »kršeče« vsebine napačno označevali kot legalne?
+- Kakšno vlogo naj imajo uporabniki platform v postopkih pritožb? Naj se jim že na prvi stopnji omogoči aktivno sodelovanje, ali naj bo to vprašanje kasnejše uporabe drugih pravnih sredstev?
+- Ali je, po vašem mnenju, primerna ureditev iz 17. člena, ki odgovornost za naložene vsebine prelaga z uporabnikov na plaftorme same in zakaj?
